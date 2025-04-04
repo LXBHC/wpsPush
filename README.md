@@ -13,11 +13,6 @@
 <!-- SHIELD GROUP -->
 </div>
 </div>
-
-## 🍻 交流渠道  
-<a href="https://space.bilibili.com/3546828310055281">B站：**无盐七**</a>  
-QQ群：**963592267**  
-公众号：**默库**  
   
 ## 🎊 简介
 此脚本用于金山文档的消息推送，功能丰富，使用简单，推送类型繁多  
@@ -40,9 +35,6 @@ QQ群：**963592267**
 - 息知（微信）
 - 即时达（微信）
 - wxpusher（微信）
-
-## 📺️ 视频教程
-[![](https://img.shields.io/badge/金山推送器-无盐七-blue)](https://www.bilibili.com/video/BV1bXckehEdn) https://www.bilibili.com/video/BV1bXckehEdn/
   
 ## 🛰️ 文字步骤
 1. 复制最新UPDATE.js脚本到金山文档（脚本类型：airscript 1.0），并运行
